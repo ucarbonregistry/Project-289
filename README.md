@@ -33,6 +33,13 @@ ____________
 CDM Registration Date	03 Sep 07  
 CDM Crediting Period	03 Sep 07 - 02 Sep 17 (Fixed)
 ___________________
+CDM CERs issued for Monitoring Period: 03 Sep 2007 - 31 Dec 2009
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 42464
+
+Serial Range: Block start: IN-5-188893957-1-1-0-1199      Block end: IN-5-188936420-1-1-0-1199
 
 
 
